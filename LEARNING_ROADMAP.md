@@ -1,189 +1,128 @@
-# Four-Year Learning Roadmap
-## B.Tech Computer Science & Engineering (Artificial Intelligence & Machine Learning)
+# K.R. MANGALAM UNIVERSITY | B.Tech CSE | LEARNING ROADMAP
 
-**Name:** Rishav Chandra Prasad  
-**University:** K.R. Mangalam University  
-**Programme:** B.Tech CSE (AI & ML)  
-**Batch:** 2026–2030  
-**Career Track:** Data Science and Artificial Intelligence
+## SEMESTER 1 (Current) — FOUNDATIONS
 
----
+**Core Skills:** Python basics, Linux terminal, Git/GitHub, binary number systems.
 
-## 1. Career Objective
+**Projects:**
+- CSE103 Lab Portfolio
+- GitHub Profile README
 
-My objective is to develop strong foundations in computer science, programming, mathematics, data science and artificial intelligence. Over four years, I aim to build practical projects, participate in hackathons, complete relevant certifications and gain industry experience through internships.
+**Certifications:** HackerRank Python (Basic) — planned attempt before Semester 2 begins. Not yet attempted.
 
-My long-term goal is to become an AI/ML Engineer or Data Scientist.
+**Platforms:**
+- HackerRank — Python practice problems completed.
+- freeCodeCamp — introductory labs completed.
 
-## 2. Semester-Wise Learning Roadmap
-
-### Year 1 – Building Foundations
-
-#### Semester 1
-**Academic focus:**
-- Probability, Statistics & Linear Algebra (MAT001)
-- Programming for Problem Solving Using Python (CSE101)
-- Web Development – I (CSE102)
-- Basics of Electronics & Digital Logic Design (ECE001)
-- Computer Science Fundamentals & Career Pathways (CSE103)
-- Maker Lab: Tinkering with Technology (SEET002)
-
-**Additional learning goals:**
-- Strengthen Python programming fundamentals.
-- Learn Linux commands and terminal operations.
-- Understand Git, GitHub and version control.
-- Practise HTML and CSS.
-- Understand number systems, Boolean algebra and digital logic.
-
-**Project:** Create a personal developer portfolio website.
-
-#### Semester 2
-- Learn C/C++ programming and object-oriented programming.
-- Start Data Structures and Algorithms (DSA).
-- Practise problem-solving regularly.
-- Learn SQL and database fundamentals.
-- Improve JavaScript and web development skills.
-
-**Project:** Build a student task and academic management system.
-
-### Year 2 – Core Computer Science and Data Skills
-
-#### Semester 3
-- Study advanced DSA and algorithm analysis.
-- Learn database management systems.
-- Understand operating systems and computer networks.
-- Start NumPy, Pandas and Matplotlib.
-- Learn data cleaning and exploratory data analysis.
-
-**Project:** Build a data analysis dashboard using Python.
-
-#### Semester 4
-- Study software engineering and computer architecture.
-- Learn statistics for data science.
-- Understand machine learning fundamentals.
-- Practise SQL queries and data visualisation.
-- Explore Scikit-learn.
-
-**Project:** Develop a machine learning model for predicting house prices or student performance.
-
-**Goal:** Apply for a first technical internship.
-
-### Year 3 – Artificial Intelligence and Specialisation
-
-#### Semester 5
-- Study machine learning algorithms in depth.
-- Learn deep learning fundamentals.
-- Explore TensorFlow or PyTorch.
-- Study neural networks and model evaluation.
-- Learn basic cloud computing and deployment.
-
-**Project:** Build an image classification or prediction system using deep learning.
-
-#### Semester 6
-- Explore Natural Language Processing (NLP).
-- Learn Computer Vision fundamentals.
-- Study generative AI and large language models.
-- Understand model deployment and MLOps.
-- Participate in hackathons and technical competitions.
-
-**Project:** Develop an AI-powered application that solves a real-world problem.
-
-**Goal:** Complete an industry-oriented internship.
-
-### Year 4 – Industry Readiness and Advanced Projects
-
-#### Semester 7
-- Study advanced AI/ML applications.
-- Explore research papers and emerging technologies.
-- Improve system design and software development skills.
-- Prepare for technical interviews and placements.
-- Work on a major capstone project.
-
-**Project:** Develop an end-to-end AI/ML solution with a working interface and deployment.
-
-#### Semester 8
-- Complete and document the final-year project.
-- Prepare a professional resume and portfolio.
-- Practise DSA and technical interview questions.
-- Apply for full-time roles and graduate opportunities.
-- Present project outcomes and technical work.
-
-**Goal:** Graduate with practical experience, a strong portfolio and industry-ready skills.
+**Weekly Habit:** 2–3 hours of self-study beyond scheduled lab hours.
 
 ---
 
-## 3. Technical Skills to Develop
+## SEMESTER 2 — CORE COMPUTER SCIENCE
 
-| Category | Skills |
+**Core Skills:** Data Structures — arrays, linked lists, stacks, queues and trees.
+
+**Languages:** Python OOP (classes, inheritance, file I/O), C++ basics.
+
+**Projects:** DSA Implementation Repository — implement at least 5 data structures from scratch with README documentation.
+
+**Certifications:** NPTEL "Introduction to Programming in Python" (if offered).
+
+**Platforms:**
+- LeetCode Easy — target 50 problems.
+- GeeksforGeeks DSA track.
+
+---
+
+## SEMESTER 3 — INTERMEDIATE
+
+**Core Skills:** Databases (MySQL, SQL joins, indexes), web basics (HTML, CSS and JavaScript).
+
+**Theory:** DBMS, Computer Networks and Operating Systems concepts.
+
+**Projects:** Student Record Management System (Python + MySQL).
+
+**Certifications:** Google IT Support Certificate (Coursera — free to audit).
+
+**Platforms:**
+- HackerRank SQL track.
+- freeCodeCamp Responsive Web Design certification.
+
+---
+
+## SEMESTER 4 — INTERMEDIATE-ADVANCED
+
+**Core Skills:** Web framework (Flask or Django), REST API development.
+
+**Theory:** Design & Analysis of Algorithms, Software Engineering.
+
+**Projects:** Full-stack mini-project, e.g. Task Manager App (Flask + SQLite + HTML/CSS).
+
+**Certifications:** AWS Cloud Practitioner Essentials (free on AWS Skill Builder).
+
+**Platforms:**
+- LeetCode Medium — target 30 problems.
+- HackerRank Problem Solving.
+
+---
+
+## SEMESTER 5 — SPECIALISATION
+
+Choose a specialisation track based on career interests.
+
+**Track A — Full-Stack Development:**
+- React.js, Node.js, MongoDB, Docker basics, REST and GraphQL APIs.
+
+**Track B — Data Science & AI/ML (Selected Track):**
+- NumPy, Pandas, Scikit-learn, Kaggle competitions and Jupyter Notebook.
+
+**Track C — Cybersecurity:**
+- Ethical hacking basics, TryHackMe rooms, Wireshark and Linux hardening.
+
+**Track D — Cloud & DevOps:**
+- Docker, GitHub Actions CI/CD, Linux administration and AWS core services.
+
+**Projects:** 2 specialisation projects with live demos and full documentation.
+
+**Internship:** Target a 2-month summer internship. Start applying and networking in Semester 4.
+
+**Certifications — Track-specific:**
+- Track A: Meta Front-End Developer (Coursera).
+- Track B: TensorFlow Developer Certificate.
+- Track C: CompTIA Security+ (study), CEH (study).
+- Track D: AWS Solutions Architect Associate.
+
+---
+
+## SEMESTER 6 — INDUSTRY READY
+
+**Capstone:** Major team project (3–4 members) with an industry or faculty mentor.
+
+**Resume:** Two-page version highlighting 3+ projects, 1 internship and key certifications.
+
+**Portfolio:**
+- GitHub: 5+ pinned repositories.
+- LinkedIn: Target 300+ connections.
+
+**Placement:** Prepare for campus drives and target companies matching the chosen specialisation.
+
+**DSA:** LeetCode 100+ problems (Easy + Medium mix), with mock interviews.
+
+**Goal:** Placement offer or confirmed off-campus opportunity before graduation.
+
+---
+
+# KEY MILESTONES TIMELINE
+
+| Milestone | Expected Outcome |
 |---|---|
-| Programming | Python, C/C++, SQL |
-| Web Development | HTML, CSS, JavaScript |
-| Computer Science | DSA, DBMS, OS, Computer Networks |
-| Data Science | NumPy, Pandas, Matplotlib |
-| Machine Learning | Scikit-learn, TensorFlow, PyTorch |
-| Development Tools | Git, GitHub, Linux, VS Code |
-| Deployment | APIs, Cloud, Docker, MLOps |
-
-## 4. Certifications and Learning Platforms
-
-The following platforms will be used to improve technical knowledge and gain practical experience:
-
-- **HackerRank:** Python and problem-solving practice.
-- **LeetCode:** Data Structures and Algorithms.
-- **freeCodeCamp:** Web development and programming.
-- **Kaggle:** Data science datasets and machine learning competitions.
-- **Coursera:** Structured courses in Python, data science and AI.
-- **GitHub:** Project development and portfolio management.
-
-Certifications will be pursued according to learning progress and available opportunities.
-
-## 5. First-Semester Monthly Targets
-
-| Month | Targets |
-|---|---|
-| Month 1 | Strengthen Python basics, practise Linux commands and learn Git/GitHub. |
-| Month 2 | Improve HTML/CSS, solve programming problems and complete the portfolio website. |
-| Month 3 | Practise Python problem-solving, revise mathematics and complete a small programming project. |
-
-## 6. Internship and Research Plan
-
-- **First Year:** Focus on fundamentals, personal projects and technical communities.
-- **Second Year:** Apply for beginner-level internships and participate in hackathons.
-- **Third Year:** Target AI/ML or data science internships and explore research papers.
-- **Fourth Year:** Complete an advanced capstone project and prepare for placements.
-
-## 7. Proposed Major Projects
-
-1. **Developer Portfolio:** A website showcasing technical skills, projects and achievements.
-2. **Student Performance Analytics:** Analyse academic data and identify performance patterns.
-3. **AI-Based Recommendation System:** Recommend relevant content using machine learning.
-4. **AI-Powered Productivity System:** Track tasks, study hours and productivity trends using data analytics.
-5. **Final-Year AI/ML Project:** An end-to-end application addressing a real-world problem.
-
-## 8. Mentor and Guidance
-
-**Proposed Mentor:** CSE Faculty Mentor / Senior Student (to be identified).
-
-Guidance will be taken for:
-- Selecting suitable technical projects.
-- Choosing relevant certifications.
-- Preparing for internships and placements.
-- Exploring research opportunities.
-- Improving technical and professional skills.
-
-## 9. Expected Outcomes by 2030
-
-By the end of the four-year programme, I aim to:
-
-- Develop strong programming and computer science fundamentals.
-- Understand machine learning and deep learning concepts.
-- Build at least 5 meaningful technical projects.
-- Maintain an organised GitHub portfolio.
-- Complete relevant certifications.
-- Gain practical internship experience.
-- Participate in hackathons and technical events.
-- Become prepared for entry-level AI/ML Engineer or Data Scientist roles.
+| End of Semester 1 | GitHub profile live, HackerRank Python Basic certification attempted, 1 lab repository |
+| End of Semester 2 | 50 LeetCode Easy problems solved, 1 DSA project, confidence in Python OOP |
+| End of Semester 3 | Full web presence, SQL certification, 1 database project |
+| End of Semester 4 | First internship application sent, AWS certification, 1 full-stack project |
+| End of Semester 5 | Internship completed, 2 specialisation projects, polished portfolio |
+| End of Semester 6 | Placement secured or strong offers in hand |
 
 ---
 
-**Conclusion:** This roadmap provides a structured direction for my academic and professional development. It will be reviewed and updated every semester according to my learning progress, university curriculum and emerging technologies.
+**Career Goal:** Become an industry-ready AI/ML Engineer or Data Scientist through consistent learning, practical projects, internships and technical problem-solving.
